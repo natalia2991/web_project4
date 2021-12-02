@@ -19,4 +19,4 @@ The web page contains clicable buttons, hover effects and allows a user to adjus
 
 
 ## Link to the website
-https://natalia929.github.io/web_project_4/.
+https://natalia2991.github.io/web_project4/
