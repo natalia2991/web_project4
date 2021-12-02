@@ -1,0 +1,24 @@
+.element__heart-icon{
+    width: 21px;
+    height: 19px;
+    padding: 0;
+    background-image: url(../../../images/heart.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    margin: 5px 15px 0 0;
+    background-color: unset;
+    
+}
+
+.element__heart-icon:hover{
+    cursor: pointer;
+    opacity: .5;
+}
+
+@media screen and (max-width: 550px){
+    .element__heart-icon:hover{
+        opacity: 1;
+    }
+}
+
